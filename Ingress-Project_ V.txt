@@ -19,7 +19,7 @@ Select at least:
  	Copy the token (you won't be able to see it again!)
 
 🔁 Update Git credentials:
-git remote set-url origin https://<your\_username>:<your\_token>@github.com/KastroVKiran/microservices-ingress-kastro.git
+git remote set-url origin https://<your\_username>:<your\_token>@github.com/Aditya-DevReleaseup/Web-app-on-AWS-EKS-with-Ingress-Controller-Argo-CD-using-Jenkins-CI-CD-pipeline.git
 
 ✅ Push the code
 git push -u origin master
@@ -496,3 +496,4 @@ TO GET ARGO CD PASSWORD:
 ------------------------------------------
 kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d
 ----> Copy the password and provide in argo cd console ----> You will see the argo cd console ----> Follow as explained in the video
+
