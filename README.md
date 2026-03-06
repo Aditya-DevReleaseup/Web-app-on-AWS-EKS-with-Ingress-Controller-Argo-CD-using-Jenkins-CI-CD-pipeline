@@ -32,7 +32,7 @@ This project demonstrates a production-grade deployment of a multi-page web appl
 
  														   *by*
 
-=================== 										 			**Aditya**
+=================== 										 			
 Step 1: Basic Setup
 ===================
 1.1. Push the code from Local to Remote
